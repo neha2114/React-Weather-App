@@ -1,0 +1,34 @@
+.Forecast {
+    text-align: center;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    justify-content: center;
+    align-content: center;
+} 
+
+.get-forecast-city {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.forecast-city {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    color: rgb(61, 81, 236);
+}
+ 
+.current-weather {
+    color: gray;
+}
+
+.icon-small {
+    height: 10vh;
+    width: 10vh;
+}
+
+.daily {
+    font-family: 'Open Sans', sans-serif;
+}

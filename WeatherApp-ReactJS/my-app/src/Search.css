@@ -1,0 +1,15 @@
+.search-form {
+    text-align: center;
+    align-items: top;
+    align-content: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    height: 3vh;
+    background-color: white;
+    color: black;
+} 
+
+.search-title {
+    padding: 5px;
+}

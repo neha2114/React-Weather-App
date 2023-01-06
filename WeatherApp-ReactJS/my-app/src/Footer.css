@@ -1,0 +1,10 @@
+.Footer {
+    padding-block: 5px;
+    background-color: rgb(190, 188, 184);
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
